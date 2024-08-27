@@ -1,0 +1,5 @@
+.full-width {
+  width: 100%;
+  padding: 20px; /* Adjust the padding as needed */
+  z-index: 1000; /* Ensure it's on top of other elements */
+}
